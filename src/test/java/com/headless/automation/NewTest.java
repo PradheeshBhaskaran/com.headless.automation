@@ -1,4 +1,4 @@
-package com.headless.com.headless;
+package com.headless.automation;
 
 import org.testng.annotations.Test;
 import org.openqa.selenium.WebDriver;
